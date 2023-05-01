@@ -1,0 +1,8 @@
+C:\Development\GenericsDemoApp\EventsProjectDemo\bin\Debug\EventsProjectDemo.exe.config
+C:\Development\GenericsDemoApp\EventsProjectDemo\bin\Debug\EventsProjectDemo.exe
+C:\Development\GenericsDemoApp\EventsProjectDemo\bin\Debug\EventsProjectDemo.pdb
+C:\Development\GenericsDemoApp\EventsProjectDemo\obj\Debug\EventsProjectDemo.csproj.AssemblyReference.cache
+C:\Development\GenericsDemoApp\EventsProjectDemo\obj\Debug\EventsProjectDemo.csproj.SuggestedBindingRedirects.cache
+C:\Development\GenericsDemoApp\EventsProjectDemo\obj\Debug\EventsProjectDemo.csproj.CoreCompileInputs.cache
+C:\Development\GenericsDemoApp\EventsProjectDemo\obj\Debug\EventsProjectDemo.exe
+C:\Development\GenericsDemoApp\EventsProjectDemo\obj\Debug\EventsProjectDemo.pdb

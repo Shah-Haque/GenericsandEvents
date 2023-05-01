@@ -1,0 +1,8 @@
+C:\Development\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\Development\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.exe
+C:\Development\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.pdb
+C:\Development\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csproj.AssemblyReference.cache
+C:\Development\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Development\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Development\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.exe
+C:\Development\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.pdb
